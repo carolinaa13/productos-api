@@ -31,7 +31,7 @@ Springdoc OpenAPI (Swagger) (Para documentación de API)
 ModelMapper (Para mapeo de DTOs)
 
 ⚙️ Instalación y Ejecución
-Para levantar el proyecto localmente:Clonar el repositorio:Bashgit clone \[URL-DE-TU-REPOSITORIO]
+Para levantar el proyecto localmente:Clonar el repositorio:Bashgit clone \https://github.com/carolinaa13/productos-api
 cd productos-api
 
 Compilar el proyecto con Maven:Bash mvn clean install
