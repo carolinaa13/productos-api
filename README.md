@@ -31,10 +31,12 @@ Springdoc OpenAPI (Swagger) (Para documentación de API)
 ModelMapper (Para mapeo de DTOs)
 
 ⚙️ Instalación y Ejecución
-Para levantar el proyecto localmente:Clonar el repositorio:Bashgit clone \https://github.com/carolinaa13/productos-api
+Para levantar el proyecto localmente:Clonar el repositorio:
+Bash git clone \https://github.com/carolinaa13/productos-api
 cd productos-api
 
-Compilar el proyecto con Maven:Bash mvn clean install
+Compilar el proyecto con Maven:
+Bash mvn clean install
 Ejecutar la aplicación:Bash mvn spring-boot:run
 (Alternativamente, puedes ejecutar la clase ProductosApiApplication.java desde tu IDE).
 La aplicación estará disponible en: http://localhost:8080
